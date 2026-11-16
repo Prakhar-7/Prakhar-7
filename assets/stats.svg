@@ -24,14 +24,14 @@
   <!-- Card 2 -->
   <rect x="309" y="1" width="274" height="158" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
   <rect x="332" y="1" width="228" height="3" rx="1.5" fill="url(#ink)"/>
-  <text x="446" y="74" text-anchor="middle" class="num" fill="url(#ink)">2,494</text>
+  <text x="446" y="74" text-anchor="middle" class="num" fill="url(#ink)">2,500+</text>
   <text x="446" y="108" text-anchor="middle" class="lbl">resume reviews processed</text>
   <text x="446" y="130" text-anchor="middle" class="lbl">by an LLM service I built</text>
 
   <!-- Card 3 -->
   <rect x="617" y="1" width="274" height="158" rx="18" fill="url(#card)" stroke="#FFFFFF" stroke-opacity="0.08"/>
   <rect x="640" y="1" width="228" height="3" rx="1.5" fill="url(#ink)"/>
-  <text x="754" y="74" text-anchor="middle" class="num" fill="url(#ink)">14,646</text>
+  <text x="754" y="74" text-anchor="middle" class="num" fill="url(#ink)">14,000+</text>
   <text x="754" y="108" text-anchor="middle" class="lbl">sessions on a production</text>
   <text x="754" y="130" text-anchor="middle" class="lbl">AI interview platform</text>
 
