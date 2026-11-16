@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176 56" width="176" height="56" role="img" aria-label="LinkedIn">
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C2410C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C2410C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#C2410C" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="2" y="2" width="172" height="52" rx="14"/></clipPath>
+    <style>
+      .t { font: 600 18px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #C2410C; }
+      .s { animation: sweep 3.5s ease-in-out 0.4s infinite; }
+      @keyframes sweep { 0% { transform: translateX(-90px); } 40%, 100% { transform: translateX(240px); } }
+      @media (prefers-reduced-motion: reduce) { .s { animation: none; opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="2" y="2" width="172" height="52" rx="14" fill="#FBF5E6" stroke="#C2410C" stroke-width="2"/>
+  <g clip-path="url(#clip)">
+    <g class="s"><rect x="0" y="-10" width="50" height="76" fill="url(#shine)" transform="skewX(-20)"/></g>
+  </g>
+  <rect x="24" y="16" width="24" height="24" rx="5" fill="#C2410C"/>
+  <text x="36" y="33" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#FFFFFF">in</text>
+  <text class="t" x="60" y="34">LinkedIn</text>
+</svg>
