@@ -1,28 +1,87 @@
-<h1 align="center">Hi 👋, I'm Prakhar Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+<img src="./assets/header.svg" width="100%" alt="Prakhar Srivastava, Full-Stack Engineer, AI and Voice Systems, Cloud"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar-7&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar-7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakhar-7" alt="prakhar-7" /></a> </p>
-
-- 🔭 I’m currently working on **Collaborative Editor**
-
-- 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **MERN STACK Devevlopment**
-
-- 📫 How to reach me **sriprakhar777@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://linkedin.com/in/prakhar-srivastava-279531218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-srivastava-279531218" height="30" width="40" /></a> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Prakhar-7&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1wGntc1011wmqAcVaiDcR3JJZWYRve-_U/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+<a href="mailto:sriprakhar777@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/sriprakhar7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="./assets/stats.svg" width="100%" alt="36% faster first reply in a real-time voice AI tutor · 2,494 resume reviews processed · 14,646 sessions on a production AI interview platform · 6+ freelance projects"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakhar-7&show_icons=true&locale=en&layout=compact" alt="prakhar-7" /></p>
+## Hi, I'm Prakhar
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakhar-7&show_icons=true&locale=en" alt="prakhar-7" /></p>
+I'm a full-stack software engineer who likes the places where modern web engineering meets AI: real-time voice, LLM pipelines, and the cloud infrastructure that keeps them dependable.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhar-7&" alt="prakhar-7" /></p>
+- **What I do:** build features across the stack in TypeScript / Next.js, Java / Spring Boot and Python / FastAPI, on Google Cloud.
+- **What I care about:** latency, deterministic behaviour, caching, clean API contracts and production reliability.
+- **What I'm exploring:** agentic systems and real-time multimodal AI.
+- **Background:** B.Tech in Computer Science (AI & ML), VIT Bhopal University, CGPA 8.2/10. Based in India.
+
+## Things I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Real-time voice + vision AI tutor</h3>
+      <p>A tutor that holds a live spoken conversation and grades answers against both speech and camera, driven by a deterministic conversation-graph engine.</p>
+      <p><b>2.46 s → 1.58 s</b> time to first reply (−36%) by moving grading off the critical path.</p>
+      <sub><code>Gemini Live</code> <code>Python</code> <code>FastAPI</code> <code>WebSockets</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Per-client data residency on GCP</h3>
+      <p>A deployment design that keeps each client's data in its own GCP project, with a Terraform module and least-privilege IAM.</p>
+      <p><b>Fail-closed config:</b> a missing setting stops startup instead of writing to a shared database.</p>
+      <sub><code>GCP</code> <code>Terraform</code> <code>Cloud SQL</code> <code>Redis</code> <code>Secret Manager</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>LLM resume evaluation</h3>
+      <p>A scoring service that extracts PDFs, scores sections and role relevance at low temperature, and caches results so the same resume always gets the same score.</p>
+      <p><b>2,494</b> resume reviews processed.</p>
+      <sub><code>Spring Boot</code> <code>OpenAI</code> <code>Redis</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Hands-free AI interviews</h3>
+      <p>A real-time interview client with a hands-free mode: speech recognition in the browser and a turn-completion classifier with timeouts, rate limiting and a voice-activity fallback.</p>
+      <p><b>14,646</b> sessions on the platform, <b>82.5%</b> completed.</p>
+      <sub><code>Next.js</code> <code>TypeScript</code> <code>Web Audio</code> <code>ElevenLabs</code></sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More</b></summary>
+<br/>
+
+- **LLM content pipeline:** a 3-stage chain (planner, step expander, pushback) that turns a source document into structured YAML, slides and a ready-to-run mock interview with one API call.
+- **Goal-planning feature for 2,000+ users:** full-stack, with drafts that survive a refresh, task APIs and PDF export.
+- **Interactive lab simulators:** welding and electrical simulators and a circuit editor, built on Zustand + Immer and tested with Vitest.
+- **Freelance:** 6+ independent web projects, taken from requirements to delivery.
+
+</details>
+
+## Toolbox
+
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,python&theme=dark" height="36" alt="TypeScript, JavaScript, Java, Python"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,redux,sass,html,css&theme=dark" height="36" alt="Next.js, React, Redux, Sass, HTML, CSS"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" height="36" alt="Spring Boot, FastAPI"/> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,redis,firebase,gcp,docker,terraform&theme=dark" height="36" alt="PostgreSQL, Redis, Firebase, GCP, Docker, Terraform"/> |
+| **AI & Voice** | OpenAI · Gemini Live · Groq · ElevenLabs · Sarvam TTS · Kokoro TTS |
+| **Also** | Zustand · MUI · Framer Motion · Highcharts · Recharts · React Flow · Agora · Clerk · Vitest · Git |
+
+---
+
+---
+
+<img src="./assets/collab.svg" width="100%" alt="Collaboration. Let's build something useful. Open to engineering roles, research in real-time voice AI, LLM pipelines and agentic systems, and conversations on latency and cloud infrastructure."/>
+
+<p align="center">
+<a href="mailto:sriprakhar777@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email me"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sriprakhar7/"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>
+</p>
