@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-label="Let's build something useful. Open to engineering opportunities, thoughtful conversations and research collaborations.">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .h  { font: 700 30px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1C1917; }
+      .b  { font: 700 22px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #292524; }
+      .em { font-size: 32px; }
+
+      .card { animation: rise 0.9s cubic-bezier(.2,.8,.2,1) both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
+
+      .tape { transform-box: fill-box; transform-origin: center; animation: stick 0.5s ease-out both; }
+      .t1 { animation-delay: 0.7s; }
+      .t2 { animation-delay: 0.85s; }
+      @keyframes stick { from { opacity: 0; transform: scale(1.35); } to { opacity: 1; transform: scale(1); } }
+
+      .mega { transform-box: fill-box; transform-origin: 30% 80%; animation: wiggle 3s ease-in-out 1s infinite; }
+      @keyframes wiggle {
+        0%, 20%, 100% { transform: rotate(0deg); }
+        5%  { transform: rotate(-12deg); }
+        10% { transform: rotate(10deg); }
+        15% { transform: rotate(-6deg); }
+      }
+
+      .u { fill: none; stroke: #C2410C; stroke-width: 3; stroke-linecap: round;
+           stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 6s ease-in-out infinite both; }
+      .u1 { animation-delay: 1.2s; }
+      .u2 { animation-delay: 1.5s; }
+      .u3 { animation-delay: 1.8s; }
+      @keyframes draw {
+        0%   { stroke-dashoffset: 1; opacity: 1; }
+        15%  { stroke-dashoffset: 0; }
+        85%  { stroke-dashoffset: 0; opacity: 1; }
+        100% { stroke-dashoffset: 0; opacity: 0; }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .card, .tape, .mega, .u { animation: none; }
+        .u { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <g class="card">
+    <g transform="rotate(-0.6 600 190)">
+      <rect x="60" y="60" width="1080" height="262" rx="6" fill="#FBF5E6" stroke="#EADFC6" filter="url(#shadow)"/>
+
+      <text class="em mega" x="108" y="134">📣</text>
+      <text class="h" x="156" y="133">Let&#8217;s build something useful.</text>
+
+      <line x1="108" y1="162" x2="1092" y2="162" stroke="#CDBB94" stroke-width="1.5" stroke-dasharray="7 7"/>
+
+      <circle cx="118" cy="203" r="4.5" fill="#C2410C"/>
+      <text class="b" x="136" y="210" textLength="300" lengthAdjust="spacing">Engineering opportunities</text>
+      <path class="u u1" pathLength="1" d="M136 218 Q211 223 286 219 T436 218"/>
+
+      <circle cx="118" cy="241" r="4.5" fill="#C2410C"/>
+      <text class="b" x="136" y="248" textLength="288" lengthAdjust="spacing">Thoughtful conversations</text>
+      <path class="u u2" pathLength="1" d="M136 256 Q208 261 280 257 T424 256"/>
+
+      <circle cx="118" cy="279" r="4.5" fill="#C2410C"/>
+      <text class="b" x="136" y="286" textLength="276" lengthAdjust="spacing">Research collaborations</text>
+      <path class="u u3" pathLength="1" d="M136 294 Q205 299 274 295 T412 294"/>
+    </g>
+  </g>
+
+  <g class="tape t1"><rect x="22" y="50" width="150" height="38" fill="#E9B872" fill-opacity="0.8" transform="rotate(-35 97 69)"/></g>
+  <g class="tape t2"><rect x="1028" y="50" width="150" height="38" fill="#E9B872" fill-opacity="0.8" transform="rotate(35 1103 69)"/></g>
+</svg>
